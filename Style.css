@@ -1,0 +1,17 @@
+body{
+    background-color: #fbd139;
+}
+
+h1{
+    color: #000000;
+    background-color: cornsilk;
+}
+
+#show_sketch{
+    float: right;
+}
+
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
